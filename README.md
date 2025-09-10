@@ -1,6 +1,5 @@
 # 📊 Data Analysis on SQL Data Warehouse  
-
-## 📖 Overview  
+  
 This project is a **continuation of my SQL Data Warehouse Project** that was built using the **Medallion Architecture (Bronze, Silver, and Gold layers)**.  
 
 On top of that warehouse, I developed a **Data Analysis layer** to generate insights and business reports. The analysis covers:  
